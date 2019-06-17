@@ -10,4 +10,7 @@ public class Test {
 	public void fun2(){
 		System.out.println("hello world");
 	}
+	public void fun3(){
+		System.out.println("hello world");
+	}
 }
